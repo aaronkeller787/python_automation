@@ -1,4 +1,4 @@
-SERVERNAME='smtp.example.com'
+SERVERNAME='smtp.test.com'
 SERVERPORT=587
 USERNAME='example@example.com'
 PASSWRD='SuperSecretPassword'
